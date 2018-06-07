@@ -1,0 +1,8 @@
+{
+  "name": "scan_qr",
+  "app_id": "f55e356a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
